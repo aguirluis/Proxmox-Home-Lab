@@ -47,7 +47,7 @@ The lab replicates enterprise infrastructure in a home network environment. It r
 - [Proxmox VE Documentation](https://pve.proxmox.com/wiki/Main_Page)
 - [pfSense Docs](https://docs.netgate.com/pfsense/en/latest/)
 - [TrueNAS Docs](https://www.truenas.com/docs/)
-- [TheOldTek Website](https://github.com/aguirluis)
+- [TheOldTek Website](https://aguirluis.github.io/theoldtek)
 
 ---
 
